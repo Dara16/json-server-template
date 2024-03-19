@@ -3,50 +3,86 @@
     {
       "id": 1,
       "title": "The Da Vinci Code",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91Q5dCjc2KL.jpg",
       "author": "Dan Brown",
       "likes": 10
     },
     {
       "id": 2,
       "title": "To Kill a Mockingbird",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71FxgtFKcQL.jpg",
       "author": "Harper Lee",
       "likes": 14
     },
     {
       "id": 3,
+      "title": "My Remarkable Journey",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91jSmTi-JWL.jpg",
+      "author": "Katherine Johnson",
+      "likes": 25
+    },
+    {
+      "id": 4,
       "title": "The Lord of the Rings",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51kfFS5-fnL._SX332_BO1,204,203,200_.jpg",
       "author": "J.R.R Tolkien",
       "likes": 15
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Harry Potter and the Goblet of Fire",
+      "image": "https://m.media-amazon.com/images/I/71ykU-RQ0nL._AC_SL1000_.jpg",
       "author": "J.K. Rowling",
       "likes": 20
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Fifty Shades of Grey",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71VPGQoxPRL.jpg",
       "author": "E.L. James",
       "likes": 1
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Becoming",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/815rLjPo9KL.jpg",
       "author": "Michelle Obama",
       "likes": 13
     },
     {
-      "id": 7,
+      "id": 8,
+      "title": "I Know Why the Caged Bird Sings",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71IrTqSVOjL.jpg",
+      "author": "Maya Angelou",
+      "likes": 18
+    },
+    {
+      "id": 9,
       "title": "The Firm",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4102ES5HCVL.jpg",
       "author": "John Grisham",
       "likes": 0
     },
     {
-      "id": 8,
+      "id": 10,
       "title": "Goldfinger",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81QIBRKW4hL.jpg",
       "author": "Ian Fleming",
       "likes": 5
+    },
+    {
+      "id": 11,
+      "title": "Gulliver's Travels",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51wax826R9L._SX311_BO1,204,203,200_.jpg",
+      "author": "Jonathan Swift",
+      "likes": 18
+    },
+    {
+      "id": 12,
+      "title": "Charlotte's Web",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51tP8AeYLPL._SX331_BO1,204,203,200_.jpg",
+      "author": "E.B. White",
+      "likes": 14
     }
   ]
 }
