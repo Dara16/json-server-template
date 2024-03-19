@@ -3,48 +3,56 @@
     {
       "id": 1,
       "title": "The Da Vinci Code",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91Q5dCjc2KL.jpg",
       "author": "Dan Brown",
       "likes": 10
     },
     {
       "id": 2,
       "title": "To Kill a Mockingbird",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71FxgtFKcQL.jpg",
       "author": "Harper Lee",
       "likes": 14
     },
     {
       "id": 3,
       "title": "The Lord of the Rings",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51kfFS5-fnL._SX332_BO1,204,203,200_.jpg",
       "author": "J.R.R Tolkien",
       "likes": 15
     },
     {
       "id": 4,
       "title": "Harry Potter and the Goblet of Fire",
+      "image": "https://m.media-amazon.com/images/I/71ykU-RQ0nL._AC_SL1000_.jpg",
       "author": "J.K. Rowling",
       "likes": 20
     },
     {
       "id": 5,
       "title": "Fifty Shades of Grey",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71VPGQoxPRL.jpg",
       "author": "E.L. James",
       "likes": 1
     },
     {
       "id": 6,
       "title": "Becoming",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/815rLjPo9KL.jpg",
       "author": "Michelle Obama",
       "likes": 13
     },
     {
       "id": 7,
       "title": "The Firm",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4102ES5HCVL.jpg",
       "author": "John Grisham",
       "likes": 0
     },
     {
       "id": 8,
       "title": "Goldfinger",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81QIBRKW4hL.jpg",
       "author": "Ian Fleming",
       "likes": 5
     }
